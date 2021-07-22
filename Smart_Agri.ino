@@ -4,10 +4,10 @@
 #include <SPI.h>
 #include <DHT.h>
 
-char auth[] = "Q-jYr01icPCmyD8V8qD-FaWnH0YJ6BI_";
+char auth[] = " "; //Your Authentication token
 
-char ssid[] = "KT";          //"Galaxy A9 (2018)DC3B";  //"AndroidAP6EF3";  // Your WiFi credentials.
-char pass[] = "itsmylife";   //"kkkkkkkkk";  //"kiran@123";    // Set password to "" for open networks.
+char ssid[] = " ";  // Your WiFi credentials.
+char pass[] = " ";  // Set password to "" for open networks.
 
 BlynkTimer timer;
 
