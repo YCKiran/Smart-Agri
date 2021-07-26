@@ -6,5 +6,5 @@ Components Used: Node MCU ESP8266, DHT 11 Temperature and Humidity Sensor, Soil 
 
 Software Used: Arduino IDE, Blynk Application. 
  
-Abstract: Smart Agri is a system that will help the problem of the watering the fields. Based on the weather conditions and water contents in soil. Smart Agri will display the temperature values, Humidity values, and Soil Moisture values. The Main feature of Smart Agri is it can be controlled by you anywhere in the world. So that you can monitor the crops same as you are physically present in the field.
+Abstract: Smart Agri is a system that helps in solving the problem of **watering the fields**, based on the weather conditions and water contents in soil. Smart Agri displays the temperature, Humidity, and Soil Moisture values. The main feature of Smart Agri is it can be controlled by you form any place in the world, so that you can monitor the crops same as you are physically present in the field.
 
